@@ -1,0 +1,19 @@
+{
+  "name": "@vkcyan/show-loading",
+  "version": "0.0.3",
+  "main": "./dist/index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "wu.vkcyan@gmail.com",
+  "description": "Web side Toast",
+  "bugs": {
+    "url": "https://github.com/vkcyan/showLading/issues"
+  },
+  "homepage": "https://github.com/vkcyan/showLading#readme",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.15"
+  }
+}
