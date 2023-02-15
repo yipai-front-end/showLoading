@@ -1,17 +1,17 @@
 {
-  "name": "@vkcyan/show-loading",
-  "version": "0.0.3",
+  "name": "@yipai-front-end/show-loading",
+  "version": "0.0.1",
   "main": "./dist/index.js",
   "types": "./index.d.ts",
   "scripts": {
     "build": "tsc"
   },
-  "author": "wu.vkcyan@gmail.com",
+  "author": "wukai@e2pai.net",
   "description": "Web side Toast",
   "bugs": {
-    "url": "https://github.com/vkcyan/showLading/issues"
+    "url": "https://github.com/yipai-front-end/showLading/issues"
   },
-  "homepage": "https://github.com/vkcyan/showLading#readme",
+  "homepage": "https://github.com/yipai-front-end/showLading#readme",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^18.11.15"
